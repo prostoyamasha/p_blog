@@ -82,7 +82,7 @@ class Module extends ServiceLocator
      * [
      *   'account' => 'app\controllers\UserController',
      *   'article' => [
-     *      'class' => 'app\controllers\PostController',
+     *      'class' => 'app\controllers\PostsController',
      *      'pageTitle' => 'something new',
      *   ],
      * ]
